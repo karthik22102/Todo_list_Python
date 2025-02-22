@@ -108,7 +108,8 @@ a{
 }
 
 .todo-red {
-  background-color: red;
+  background-color: rgb(252, 52, 52);
+  border-radius: 1rem;
   /* Add other styles as needed */
 }
 
